@@ -5,3 +5,5 @@ Clothes:
 Fibonacci: Close! The output is incorrect for n > 2, but you have the right
 idea. The Fibonacci numbers are 1, 1, 2, 3, 5, 8, 13...
 (8) 
+
+Talk to Dr. Dahl about your current file structure...you'll need to run this code again (source("https://dahl.byu.edu/223/2018a2/setup2.R")) and push these files up to the repository.
