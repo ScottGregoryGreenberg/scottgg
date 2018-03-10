@@ -1,4 +1,4 @@
-Cheese:
+Cheese: In the future, please don't include a file path [e.g. read.csv("cheese1.csv") instead of read.csv("https://dahl.byu.edu/223/2018a2/hw/01/files/cheese1.csv")]. This code doesn't work on my machine because my file structure isn't the same as yours. Just make sure that the .csv files are in the same folder as the script and it will run fine. Please print out the answers instead of putting the answers in the comments. (10)
 
 Clothes:
 
