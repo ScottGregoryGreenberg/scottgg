@@ -1,0 +1,5 @@
+My results over 100 trials for each are that
+1 The mean(average) of cereal it takes to collect all four prizes for evenly distributed probabilities is 7.42 and will be on average in the interval of [6.8579, 7.9821] 95 times if I repeated this study 100 times
+2 The mean(average) of cereal it takes to collect all four prizes for nonevenly distributed probabilities (.4,.1,.25,.25) is 10.87 and will be ,on average, in the interval of [9.5232, 12.2168] 95 times if I repeated this study 100 times
+3 The proportion of customers who need to purchase 14 or more cereals to collect all 4 prizes, for evenly distributed probabilities is 0.05 and will be on average in the interval of [0.01415, 0.08585] 95 times if I repeated this study 100 times
+4 The proportion of customers who need to purchase 14 or more cereals to collect all 4 prizes, for nonevenly distributed probabilities(.1,.4,.25,.25) is 0.24 and will be on average in the interval of [0.16975, 0.31025] 95 times if I repeated this study 100 times
