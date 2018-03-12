@@ -1,6 +1,11 @@
 Cheese: In the future, please don't include a file path [e.g. read.csv("cheese1.csv") instead of read.csv("https://dahl.byu.edu/223/2018a2/hw/01/files/cheese1.csv")]. This code doesn't work on my machine because my file structure isn't the same as yours. Just make sure that the .csv files are in the same folder as the script and it will run fine. Please print out the answers instead of putting the answers in the comments. (10)
 
-Clothes:
+Clothes: I see that you put a lot of effort into this, which is awesome, but 
+some of the output is incorrect for the last section. I would recommend utilizing
+R's nice vectorization features. For example, 3-5 lines of code can remove the rows
+for which Price is not available, change it to numeric with no dollar signs, and
+extract the standard deviations for the last part. Utilize apply statements and
+subsetting. Come into the TA hours to get more help with this! Good job. (8)
 
 Fibonacci: Close! The output is incorrect for n > 2, but you have the right
 idea. The Fibonacci numbers are 1, 1, 2, 3, 5, 8, 13...
